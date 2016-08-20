@@ -1,0 +1,20 @@
+{
+  "name": "landsmanova.cz",
+  "description": "Web pro Verunku",
+  "authors": [
+    "Jakub Bouček <pan@jakubboucek.cz>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jakubboucek/landsmanova.cz",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2",
+    "bootstrap": "^3.3.6"
+  }
+}

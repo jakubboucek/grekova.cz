@@ -1,2 +1,7 @@
 /www/vendor/
 config.local.neon
+bower_components
+node_modules
+www/www/css
+www/www/js
+www/www/fonts
