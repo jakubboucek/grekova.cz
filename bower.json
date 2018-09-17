@@ -1,11 +1,11 @@
 {
-  "name": "landsmanova.cz",
+  "name": "grekova.cz",
   "description": "Web pro Verunku",
   "authors": [
     "Jakub Bouček <pan@jakubboucek.cz>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/jakubboucek/landsmanova.cz",
+  "homepage": "https://github.com/jakubboucek/grekova.cz",
   "ignore": [
     "**/.*",
     "node_modules",

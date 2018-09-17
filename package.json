@@ -1,5 +1,5 @@
 {
-  "name": "landsmanova.cz",
+  "name": "grekova.cz",
   "version": "0.0.1",
   "description": "Web pro Verunku",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jakubboucek/landsmanova.cz.git"
+    "url": "git+https://github.com/jakubboucek/grekova.cz.git"
   },
   "author": "Jakub Bouček <pan@jakubboucek.cz>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jakubboucek/landsmanova.cz/issues"
+    "url": "https://github.com/jakubboucek/grekova.cz/issues"
   },
-  "homepage": "https://github.com/jakubboucek/landsmanova.cz#readme",
+  "homepage": "https://github.com/jakubboucek/grekova.cz#readme",
   "devDependencies": {
     "grunt": "^1.0.3",
     "grunt-contrib-copy": "^1.0.0",

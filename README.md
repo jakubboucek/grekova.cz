@@ -1,2 +1,2 @@
-# landsmanova.cz
+# grekova.cz
 Web pro Verunku
